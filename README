@@ -1,0 +1,2 @@
+joykey: convert joystick input into X11 key presses
+randr_tail: output a line whenever an XRandR display is connected or disconnected
